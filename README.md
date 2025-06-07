@@ -1,5 +1,3 @@
-# Proyecto de Mascotas y Salud Mental
-
 ## Tema del Proyecto
 **Beneficiarios del programa Más Familias en Acción**
 
